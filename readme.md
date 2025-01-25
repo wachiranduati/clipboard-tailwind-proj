@@ -3,6 +3,8 @@
 This is a simple Tailwind project showcasing a build up of a simple tailwind.
 The build is based on a project from TraveryMedia's course [here](https://www.traversymedia.com/tailwind-css-course)
 
+Preview the project on this [Netlify link](https://storied-puppy-597cfa.netlify.app/)
+
 
 ## Usage
 
